@@ -55,14 +55,21 @@ Before industry, I spent 7 years teaching and researching mathematics - designin
 
 ### 📌 Featured Projects
 
-**[🍷 Somm — A Wine Recommendation App](https://github.com/PalArora94)**
-Retrieval-Augmented Generation (RAG) app matching customers to wine using Pinecone, LangChain, GPT-4, Flask & Next.js. Mined 130k+ flavor-based reviews, generated embeddings, and defined 86 unique wine styles — achieving a **4.84/5.0 relevance score**, 11% higher than classification baselines.
+**[🍷 Somm - A Wine Recommendation App](https://github.com/PalArora94)**
+
+- This app is catered to the users with not much experience with wide (and confusing) wine varieties and brands, wanting to find a suitable wine based on the taste and flavors, as well as towards distributors, helping them match customers to wines based on taste, not just varietal or region
+- Mined and cleaned WineEnthusiast review data, generated GPT-4 text embeddings, and built a RAG pipeline (Pinecone + LangChain) serving recommendations through a Flask / Next.js app, defining 86 unique wine styles along the way.
+- Achieved a **4.84/5.0 relevance score**, which is 11% higher than classification-based approaches, with the potential to increase distributor sales via better customer matching.
+
 `RAG` `LangChain` `Pinecone` `GPT-4` `Flask` `Next.js`
 
+**[🌊 Dissolved Oxygen Event Classification,  OptiO2 LLC](https://github.com/PalArora94)**
 
-**[🌊 Dissolved Oxygen Event Classification — OptiO2 LLC](https://github.com/PalArora94)**
-Automated manual classification of dissolved oxygen events at a coastal wetland site using 6+ years of sensor data, via SVM and Random Forest with SHAP-based feature selection — achieving ~90% accuracy and saving researchers significant manual review time.
-`SVM` `Random Forest` `Feature Engineering` `SHAP`
+- Researchers were manually classifying dissolved oxygen events captured from a coastal wetland sensor data for the past 6 years - a slow, repetitive process pulling time away from higher-value research.
+- I Automated the classification into three event types (hot moments, oxic pulses, mixed events) using SVM and Random Forest, applying feature extraction, mutual information, L1 logistic regression, and SHAP importance for feature selection.
+- Achieved ~**90% accuracy** on binary classification, freeing up researcher time for more important analysis.
+
+`SVM` `Random Forest` `Feature Engineering` `SHAP` `Mutual Importance` `Feature Selection` `Classification`
 
 ---
 
@@ -101,13 +108,6 @@ Journal of Number Theory, 2025
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PalArora94/PalArora94/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake animation eating my commit history" src="https://raw.githubusercontent.com/PalArora94/PalArora94/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-### 📊 GitHub Stats
-
-![Palak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PalArora94&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PalArora94&layout=compact&hide_border=true)
 
 ---
 
