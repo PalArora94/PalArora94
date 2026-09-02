@@ -1,8 +1,4 @@
-# Hi, I'm Palak Arora 👋
-
-**Data Scientist, Ph.D. in Mathematics** | Turning statistical rigor into production-ready ML
-
-📍 Chicago, IL &nbsp;·&nbsp; 📧 [palak.arora.math@gmail.com](mailto:palak.arora.math@gmail.com) &nbsp;·&nbsp; 
+![Banner](assets/banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-palak--arora--phd-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-arora-phd/)
 [![Email](https://img.shields.io/badge/Email-palak.arora.math%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:palak.arora.math@gmail.com)
@@ -61,7 +57,12 @@ Before industry, I spent 7 years teaching and researching mathematics - designin
 - Mined and cleaned WineEnthusiast review data, generated GPT-4 text embeddings, and built a RAG pipeline (Pinecone + LangChain) serving recommendations through a Flask / Next.js app, defining 86 unique wine styles along the way.
 - Achieved a **4.84/5.0 relevance score**, which is 11% higher than classification-based approaches, with the potential to increase distributor sales via better customer matching.
 
-`RAG` `LangChain` `Pinecone` `GPT-4` `Flask` `Next.js`
+![RAG](https://img.shields.io/badge/RAG-E03131?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-2F9E44?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-1971C2?style=flat)
+![GPT-4](https://img.shields.io/badge/GPT--4-7048E8?style=flat)
+![Flask](https://img.shields.io/badge/Flask-F08C00?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat)
 
 **[🌊 Dissolved Oxygen Event Classification,  OptiO2 LLC](https://github.com/PalArora94)**
 
@@ -69,7 +70,13 @@ Before industry, I spent 7 years teaching and researching mathematics - designin
 - I Automated the classification into three event types (hot moments, oxic pulses, mixed events) using SVM and Random Forest, applying feature extraction, mutual information, L1 logistic regression, and SHAP importance for feature selection.
 - Achieved ~**90% accuracy** on binary classification, freeing up researcher time for more important analysis.
 
-`SVM` `Random Forest` `Feature Engineering` `SHAP` `Mutual Importance` `Feature Selection` `Classification`
+![SVM](https://img.shields.io/badge/SVM-AE3EC9?style=flat)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-2F9E44?style=flat)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-E8590C?style=flat)
+![SHAP](https://img.shields.io/badge/SHAP-C2255C?style=flat)
+![Mutual Importance](https://img.shields.io/badge/Mutual%20Importance-4263EB?style=flat)
+![Feature Selection](https://img.shields.io/badge/Feature%20Selection-0CA678?style=flat)
+![Classification](https://img.shields.io/badge/Classification-495057?style=flat)
 
 ---
 
